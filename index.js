@@ -14,7 +14,7 @@ function moveDodgerLeft() {
 function moveDodgerRight() {
   //dodger width is 40
   //area width is 400
-  
+
   var leftNumbers = dodger.style.left.replace('px', '')
   var left = parseInt(leftNumbers, 10)
 
